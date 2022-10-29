@@ -32,7 +32,3 @@
 
 <p align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=saptarshi-bandopadhyay&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=en" alt="saptarshi-bandopadhyay" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshi-bandopadhyay&theme=tokyonight" alt="saptarshi-bandopadhyay" width="400" /></p>
-
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshi-bandopadhyay&theme=tokyonight" alt="saptarshi-bandopadhyay" /></a> </p>
