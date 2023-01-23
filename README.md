@@ -1,3 +1,5 @@
+<img src="https://wiidgets.vercel.app/api/banner?title=Saptarshi%20Bandopadhyay&bio=A%20CS%20Undergrad&twitter=Saptarshi_21023 " alt="name_widget">
+
 <h1 align="center">Hi 👋, I'm Saptarshi Bandopadhyay</h1>
 <h3 align="center">A CS Undergrad</h3>
 
