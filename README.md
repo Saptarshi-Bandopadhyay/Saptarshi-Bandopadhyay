@@ -1,5 +1,3 @@
-![name_widget](https://wiidgets.vercel.app/api/banner?title=Saptarshi%20Bandopadhyay&bio=A%20CS%20Undergrad&twitter=saptarshi_021)
-
 <h1 align="center">Hi 👋, I'm Saptarshi Bandopadhyay</h1>
 <h3 align="center">A ML Engineer</h3>
 
