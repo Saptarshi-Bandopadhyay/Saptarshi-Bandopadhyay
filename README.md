@@ -1,13 +1,13 @@
-![name_widget](https://wiidgets.vercel.app/api/banner?title=Saptarshi%20Bandopadhyay&bio=A%20CS%20Undergrad&twitter=Saptarshi_21023)
+![name_widget](https://wiidgets.vercel.app/api/banner?title=Saptarshi%20Bandopadhyay&bio=A%20CS%20Undergrad&twitter=saptarshi_021)
 
 <h1 align="center">Hi 👋, I'm Saptarshi Bandopadhyay</h1>
-<h3 align="center">A CS Undergrad</h3>
+<h3 align="center">A ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-bandopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-bandopadhyay" /> </p>
 
 
 
-- 🌱 I’m currently learning **Web Development and Machine learning/Artificial Intelligence.**
+- 🌱 I’m currently learning **Deep Computer Vision**
 
 - 📫 How to reach me <a href="bandopadhyaysaptarshi@gmail.com">📧</a>
 
